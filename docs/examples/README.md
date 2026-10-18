@@ -8,7 +8,7 @@ These captures show repository output, not invented product screens. Run `node s
 
 ## project-health
 
-`project-health.svg` records an audit of this repository at [`7e3e5d6`](https://github.com/okturan/claude-plugins/commit/7e3e5d6). The score follows the nine-category rubric in [`repo-audit`](../../plugins/project-health/skills/repo-audit/SKILL.md).
+`project-health.svg` records an audit of this repository at [`7e3e5d6`](https://github.com/okanerturan/claude-plugins/commit/7e3e5d6). The score follows the nine-category rubric in [`repo-audit`](../../plugins/project-health/skills/repo-audit/SKILL.md).
 
 | Category | Score | Evidence for the snapshot |
 |---|---:|---|
@@ -26,7 +26,7 @@ The two deductions are visible in the capture. This is a dated result, not a pro
 
 ## human-writing
 
-`human-writing.svg` uses exact opening lines from the plugin README before and after commit [`1759db3`](https://github.com/okturan/claude-plugins/commit/1759db3). Reproduce the source diff with:
+`human-writing.svg` uses exact opening lines from the plugin README before and after commit [`1759db3`](https://github.com/okanerturan/claude-plugins/commit/1759db3). Reproduce the source diff with:
 
 ```bash
 git diff 7ecdf43..1759db3 -- plugins/human-writing/README.md

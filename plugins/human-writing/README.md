@@ -20,7 +20,7 @@ Claude can also load the skill automatically while drafting a post, README, anno
 
 ![Before and after opening lines from the human-writing README revision in commit 1759db3](../../docs/examples/human-writing.svg)
 
-The text above comes from this plugin's own history. Commit [`1759db3`](https://github.com/okturan/claude-plugins/commit/1759db3) replaced a generic opening with two shorter sentences while keeping the scope and constraints. The [capture provenance](../../docs/examples/README.md#human-writing) includes the exact `git diff` command.
+The text above comes from this plugin's own history. Commit [`1759db3`](https://github.com/okanerturan/claude-plugins/commit/1759db3) replaced a generic opening with two shorter sentences while keeping the scope and constraints. The [capture provenance](../../docs/examples/README.md#human-writing) includes the exact `git diff` command.
 
 ## Limits
 
